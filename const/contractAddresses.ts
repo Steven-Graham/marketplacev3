@@ -7,11 +7,11 @@ export const NETWORK = Mumbai;
 
 // 2. The address of the marketplace V3 smart contract.
 // Deploy your own: https://thirdweb.com/thirdweb.eth/MarketplaceV3
-export const MARKETPLACE_ADDRESS = "0x6604bd9D7770035f26B4ACeab2C746fdCE166473";
+export const MARKETPLACE_ADDRESS = "0x375073b9FC6Dc389EfE78F9F8e49eFAF14bc455C";
 
 // 3. The address of your NFT collection smart contract.
 export const NFT_COLLECTION_ADDRESS =
-  "0xFfd9bAddF3f6e427EfAa1A4AEC99131078C1d683";
+  "0x7BB6D8B09B63c91e1253EcC7E88751f761c32814";
 
 // (Optional) Set up the URL of where users can view transactions on
 // For example, below, we use Mumbai.polygonscan to view transactions on the Mumbai testnet.
